@@ -1,1 +1,3 @@
 Este va a ser el archivo en el que voy a realizar las pruebas con git
+
+Se van a agregar estas líneas para probar cómo funciona.
